@@ -13,10 +13,10 @@
 ### Siéntete libre de contactarme:
 
 <p align="center">
-	<a href="https://github.com/DiegoAndresVF"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/diego-villagrán-1b581b201/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://github.com/DiegoAndresVF"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/nolan/64/github.png"/></a>
+	<a href="https://www.linkedin.com/in/diego-villagrán-1b581b201/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
+	<a href="https://www.facebook.com/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/color/48/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
 </p>
 
 ### Lenguajes de programación (en proceso de aprendizaje):
