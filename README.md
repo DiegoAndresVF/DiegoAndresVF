@@ -28,7 +28,7 @@
 </p>
 
 ### Sobre mí:
-Me gusta la música (metal y electrónica, principalmente), fan de los videojuegos (mi favorito es The Legend of Zelda OoT), me gusta el dibujo (poco frecuente) y muy de vez en cuando ver algún anime.
+Me gusta la música (metal y electrónica, principalmente), fan de los videojuegos (mi favorito es The Legend of Zelda OoT), me gusta el dibujo (poco frecuente) y muy de vez en cuando ver algún anime o leer.
 
 ---
 
